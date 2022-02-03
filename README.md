@@ -15,5 +15,5 @@ First coulmn is baryon density (fm^-3), energy density (MeV/fm^3), pressure (MeV
 If you are using these EOSs for your calculations, please cite the following article
 
 Crustal properties of the neutron star within effective relativistic mean-field model
-arXiv:2111.07278 (https://arxiv.org/abs/2111.07278)
+arXiv:2111.07278 (https://arxiv.org/abs/2111.07278),
 PRD accepted
