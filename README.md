@@ -11,7 +11,7 @@ This is the extentsion version for relativistic mean-field model.
 Three unified EOSs are given named as eos_unified_FSUGarnet.dat, eos_unified_G3.dat and eos_unified_IOPB.dat.
 First coulmn is baryon density (fm^-3), energy density (MeV/fm^3), pressure (MeV/fm^3)
 
-If you are using these EOSs for your calculations, please cite the following article
+If you will use these EOSs for your calculations, please cite the following article
 
 Crustal properties of the neutron star within effective relativistic mean-field model
 arXiv:2111.07278 (https://arxiv.org/abs/2111.07278),
