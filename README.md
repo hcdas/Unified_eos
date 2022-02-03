@@ -1,5 +1,5 @@
-# Unified_eos
-Unified equation of state (EOS) for neutron star
+# Unified Equation of state (EOS)
+Unified EOS for neutron star
 
 The core EOSs of the neutron star is calculated using relativistic mean-field model. 
 For inner crust EOS is calculated using compressible liquid drop model (CLDM) model.
