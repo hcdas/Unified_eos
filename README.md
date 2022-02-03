@@ -1,8 +1,8 @@
 # Unified Equation of state (EOS)
 
 The core EOSs of the neutron star is calculated using relativistic mean-field model. 
-For inner crust EOS is calculated using compressible liquid drop model (CLDM) model.
-For outer crust EOS is calculated using availbale experimantal data such as FRDM 2012, AME 2020, 
+The inner crust EOS is calculated using compressible liquid drop model (CLDM) model.
+The outer crust EOS is calculated using availbale experimantal data such as FRDM 2012, AME 2020, 
 and other therotical microscopic methods named as Hartree-Fock-Bogoliubov (HFB). 
 
 This calculations use the Thomas Carreau code (https://github.com/thomascarreau/NSEoS)
