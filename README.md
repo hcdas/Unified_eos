@@ -9,7 +9,7 @@ This calculations use the Thomas Carreau code (https://github.com/thomascarreau/
 This is the extentsion version for relativistic mean-field model.
 
 Three unified EOSs are given named as eos_unified_FSUGarnet.dat, eos_unified_G3.dat and eos_unified_IOPB.dat.
-First coulmn is baryon density (fm^-3), energy density (MeV/fm^3), pressure (MeV/fm^3)
+The coulmns are baryon density (fm^-3), energy density (MeV/fm^3), and pressure (MeV/fm^3)
 
 If you will use these EOSs for your calculations, please cite the following article
 
