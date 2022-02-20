@@ -16,3 +16,5 @@ If you will use these EOSs for your calculations, please cite the following arti
 Crustal properties of the neutron star within effective relativistic mean-field model
 arXiv:2111.07278 (https://arxiv.org/abs/2111.07278),
 PRD accepted
+
+Unified EOSs with pasta inside the crust, please see https://github.com/hcdas/Unfied_pasta_eos
