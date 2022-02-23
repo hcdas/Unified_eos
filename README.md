@@ -13,8 +13,8 @@ The coulmns are baryon density (fm^-3), energy density (MeV/fm^3), and pressure 
 
 If you will use these EOSs for your calculations, please cite the following article
 
-Crustal properties of the neutron star within effective relativistic mean-field model
-Phys. Rev. D 105, 043017 (2022), https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043017
+Crustal properties of the neutron star within an effective relativistic mean-field model
+Phys. Rev. D 105, 043017 (2022), https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.043017 and 
 arXiv:2111.07278 (https://arxiv.org/abs/2111.07278),
 
 Unified EOSs with pasta inside the crust, please see https://github.com/hcdas/Unfied_pasta_eos
